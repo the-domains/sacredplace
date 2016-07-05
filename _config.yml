@@ -6,9 +6,9 @@ color:
   saturation: 0.24653917155228555
   rhythmicContrast: 0.12633611913770437
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: SacredPlace
