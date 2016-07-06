@@ -1,14 +1,14 @@
-layout_spectrum: 0.13289033737964928
-typography_spectrum: 0.18273187149316072
+layout_spectrum: 0.6413576481863856
+typography_spectrum: 0.8002375192008913
 color:
-  brandStrength: 0.5502697711344808
-  lightness: 0.2822585944086313
-  saturation: 0.24653917155228555
-  rhythmicContrast: 0.12633611913770437
+  brandStrength: 0.3582125776447356
+  lightness: 0.5674877590499818
+  saturation: 0.6613464944530278
+  rhythmicContrast: 0.2323488313704729
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
 name: SacredPlace
