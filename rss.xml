@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SacredPlace]]></title>
-        <description><![CDATA[SacredPlace]]></description>
+        <title><![CDATA[SacredPlace Healing&nbsp;]]></title>
+        <description><![CDATA[SacredPlace Healing&nbsp;]]></description>
         <link>https://thegrid.ai/sacredplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 23:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 11:05:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sacredplace/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bec605f-3c99-406a-8fbb-b77b9b783ae7.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bec605f-3c99-406a-8fbb-b77b9b783ae7.jpg</link>
+            <guid isPermaLink="false">4050b339-6f18-4860-ae61-a83d1b61ddd8</guid>
+            <pubDate>Wed, 06 Jul 2016 11:05:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Food & Beer (Pre-order) | Food & Cookery | Phaidon Store]]></title>
             <description><![CDATA[<article><h1>Food & Beer (Pre-order) | Food & Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31575c7cfa1e804906592cd13d57025c9b5bcd4a.jpg"></article>]]></description>
